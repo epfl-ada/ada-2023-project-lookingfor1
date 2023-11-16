@@ -1,4 +1,4 @@
-###The Impact of the COVID Pandemic on Energy System Transition
+## The Impact of the COVID Pandemic on Energy System Transition
 
 ## Table of Contents
 - [Abstract](#abstract)

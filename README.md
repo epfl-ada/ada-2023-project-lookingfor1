@@ -10,7 +10,7 @@
 - [Questions for TAs](#questions-for-tas)
 
 ## Abstract
-This project focuses on the transformative effects of the COVID-19 pandemic on energy systems. During the pandemic, the usual patterns of life - and consequently, energy consumption - have seen significant shifts. Our study aims to unravel how these shifts have impacted the transition to sustainable energy. We study the correlation between pandemic timelines and energy use, probe into the public's burgeoning awareness of green energy, and evaluate the structural changes in energy consumption. By narrating the story of this special period through the lens of energy, we seek to offer insights and strategies for a greener future. 
+This project focuses on the transformative effects of the COVID-19 pandemic on energy systems. During the pandemic, the usual patterns of life - and consequently, energy consumption - have seen significant shifts. Our study aims to unravel how these shifts have impacted the transition to sustainable energy. We study the correlation between pandemic timelines and energy use, probe into the public's awareness of green energy, and evaluate the structural changes in energy consumption. By narrating the story of this special period through the lens of energy, we seek to offer insights and strategies for a greener future. 
 Our analysis specifically concentrates on the energy usage patterns of six countries: Finland, France, Germany, the Netherlands, Serbia, and Spain.
 
 ## Research Questions

@@ -1,4 +1,4 @@
-# Project Proposal: Impact of the COVID-19 Pandemic on Energy System Transition
+# Project Proposal: Impact of the COVID-19 Pandemic on Green Energy Transition
 
 ## Abstract
 The COVID-19 pandemic has disrupted various sectors globally, including the energy industry. This project aims to investigate the impact of the pandemic on energy system transition. By analyzing relevant datasets, we seek to understand how the pandemic has influenced the supply and demand for electricity, oil, and natural gas in specific countries. Additionally, we aim to explore changes in people's awareness of green energy and the shift in energy consumption patterns.

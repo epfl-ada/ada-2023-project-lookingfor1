@@ -23,7 +23,12 @@ Our analysis specifically concentrates on the energy usage patterns of six count
 - 
 
 ## Methods
+- Data Processing 
+- Visual Data Analysis
+- Correlation Analysis
+- Statistical Modeling 
 - Time series analysis
+- Pageviews Tracking
 
 ## Proposed timeline
 [... content ...]

@@ -1,10 +1,4 @@
-README:
-
-Overview: 
-
-Project: Analysis the impact of the COVID-19 pandemic on the global energy system's transition. 
-The project evaluates changes in energy demand across various countries during the pandemic, investigates the shift in energy consumption patterns, and examines how public awareness and interest in green energy 
-have evolved.
+###The Impact of the COVID Pandemic on Energy System Transition
 
 ## Table of Contents
 - [Abstract](#abstract)

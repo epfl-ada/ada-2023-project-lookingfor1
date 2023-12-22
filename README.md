@@ -37,6 +37,7 @@ We have collected the datasets above and preprocessed most of the above datasets
   * Datasets: 'interventions.csv', 'Finland_2019.csv','Finland_2020.csv', ... , 'Spain_2021.csv'
   * Visualize the evolution of energy consumption over time for each country using line plots to get a better understanding of the electricity consumption patterns and see if there was obvious patterns during the Covid.
   * Time series analysis: Analyze the difference in the total energy consumption and the proportion of renewable energy before and after the pandemic, we may need to standardize the energy usage data based on the corresponding month in 2019 to avoid the influence of the temporal patterns and seasonality of energy usage. We can also introduce machine learning and predict the energy usage in 2021 or 2022 and analyze the differnce between it and real data: use the XGBoost library to create an XGBoostRegressor model, fit the model to the training data, evaluate its performance on both the training and test sets using the root mean squared error (RMSE) metric.
+  * Explore the electricity generation structure in these countries before, during and after the pandemic.
 - Q3 & Q4:
   * Datasets: 'applemobilitytrends.csv.gz', 'Global_Mobility_Report.csv.gz', 'lockdown_strictness.csv'
   * Use a t-test to test the null hypothesis that the total energy consumption before and after mobility restrictions have the same average value.
@@ -58,10 +59,10 @@ The project will be executed over a five-week timeline:
 - 15/12/2023~22/12/2023: Data story.
 
 ## Organization within the Team
-| Name | Tasks |
-|  :----:  | :----:  |
-| Wenyu Liu | Q3 & Q4: Energy structure analysis and ANOVA, Mobility data analysis, Spearman correlation analysis, Interactive plot, Machine learning by XGBoost, Data story , Website|
-| Shiyi Huang  | Q1 & Q2, Electricity Generation data analysis, Interactive plot, Data story |
-| Shaotian Wu  | Q1 & Q2, Time series analysis, Data story |
-| Weiqi Chen | Q3 & Q4, Preliminary data analysis, Data story |
-| Selima Khabthani  | Q5, Pageviews analysis, OxCGRT data process, Interactive plot, Data story |
+| Name | Tasks | Contributions |
+|  :----:  | :----:  | :----:  |
+| Shiyi Huang  | Q1 & Q2 | Electricity Generation data analysis, Interactive plot, Data story |
+| Shaotian Wu  | Q1 & Q2 | Time series analysis, Data story |
+| Wenyu Liu | Q3 & Q4 | Energy structure analysis and ANOVA, Mobility data analysis, Spearman correlation analysis, Interactive plot, Machine learning by XGBoost, Data story , Website|
+| Weiqi Chen | Q3 & Q4 | Preliminary data analysis, Data story |
+| Selima Khabthani  | Q5 | Pageviews analysis, OxCGRT data process, Interactive plot, Data story |

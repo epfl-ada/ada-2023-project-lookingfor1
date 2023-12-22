@@ -1,4 +1,4 @@
-# Project Proposal: Impact of the COVID-19 Pandemic on Energy Transition
+# Impact of the COVID-19 Pandemic on Energy Transition
 
 ### Visit our website [HERE](https://lwyohann.github.io/LookingFor1_Data_Story/) !
 
